@@ -1,11 +1,11 @@
 export default {
-  name: process.env.NAME, // actual name of the recipient (Mandatory)
+  name: "Caroline", // actual name of the recipient (Mandatory)
 
-  nickname: process.env.NICKNAME, // nickname(optional)
+  nickname: "Cursed Writer", // nickname(optional)
 
-  pic: process.env.PIC, // image url of recipients (Mandatory)
+  pic: "https://res.cloudinary.com/dgrys85u0/image/upload/v1718376698/caroline_profile_pic_cpbnbv.jpg", // image url of recipients (Mandatory)
 
-  showScrollMsg: process.env.SCROLL_MSG, // set to false if you do not want the scrolling message
+  showScrollMsg: "Your writing isn't just a collection of words; it's a source of light and laughter, especially during my darkest moments. Your characters, so full of life and depth, have been my companions, keeping me company when I felt most alone and bringing smiles and laughter when I needed them most." // set to false if you do not want the scrolling message
 
-  birthDate: process.env.BIRTH_DATE, // Mention birthday date in YYYY-MM-DD format
+  birthDate: 2001-06-16, // Mention birthday date in YYYY-MM-DD format
 };
