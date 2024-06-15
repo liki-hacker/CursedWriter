@@ -68,11 +68,13 @@ body {
   border-radius: 5px;
   padding: 10px;
   position: relative;
+  color: #fff;
 }
 
 .text-box p {
   margin: 0;
   text-align: left;
+  color: #fff;
 }
 
 .text-box span {
@@ -94,30 +96,36 @@ body {
   position: absolute;
   left: 0;
   right: 0;
+  color: #fff;
 }
 
 .idea-3 strong {
   padding: 3px 5px;
   border-radius: 3px;
   display: inline-block;
+  color: #fff;
 }
 
 .five .idea-5 {
   font-size: 4rem;
+  color: #fff;
 }
 
 .idea-5 span,
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  color: #fff;
 }
 
 .idea-6 span {
   font-size: 15rem;
+  color: #fff;
 }
 
 .six {
   position: relative;
+  color: #fff;
 }
 
 .six img {
@@ -268,6 +276,7 @@ body {
 
   .four .text-box {
     width: 90%;
+    color: #fff;
   }
 
   .text-box .fake-btn {
@@ -277,10 +286,12 @@ body {
 
   .idea-5 span {
     display: block;
+    color: #fff;
   }
 
   .idea-6 span {
     font-size: 10rem;
+    color: #fff;
   }
 
   .six .hat {
@@ -290,14 +301,17 @@ body {
 
   .wish-hbd {
     font-size: 2.2em;
+    color: #fff;
   }
 
   .wish h5 {
     font-size: 1.4rem;
+    color: #fff;
   }
 
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
+    color: #fff;
   }
 }
